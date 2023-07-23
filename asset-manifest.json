@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Week14App/static/css/main.e9408fc1.css",
+    "main.js": "/Week14App/static/js/main.8201f52b.js",
+    "static/js/787.acddbd8f.chunk.js": "/Week14App/static/js/787.acddbd8f.chunk.js",
+    "static/media/video.mp4": "/Week14App/static/media/video.0e63906864480581330e.mp4",
+    "static/media/bootstrap-icons.woff?": "/Week14App/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Week14App/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/Week14App/index.html",
+    "main.e9408fc1.css.map": "/Week14App/static/css/main.e9408fc1.css.map",
+    "main.8201f52b.js.map": "/Week14App/static/js/main.8201f52b.js.map",
+    "787.acddbd8f.chunk.js.map": "/Week14App/static/js/787.acddbd8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9408fc1.css",
+    "static/js/main.8201f52b.js"
+  ]
+}
